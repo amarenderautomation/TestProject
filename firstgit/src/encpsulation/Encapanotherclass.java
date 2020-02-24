@@ -11,6 +11,8 @@ public class Encapanotherclass
 		System.out.println("Eid="+ob.getEmpid());
 		System.out.println("ename="+ob.getEmpname());
 		System.out.println("essn="+ob.getEmpssn());
+		System.out.println("essn="+ob.getEmpssn());
+
 	}
 
 }
